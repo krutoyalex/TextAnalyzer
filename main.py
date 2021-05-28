@@ -91,7 +91,7 @@ print('-' * 40)
 
 
 lengths = sorted(counts)
-i= 0
+i = 0
 while i < len(lengths):
     length = lengths[i]
     frequency = counts[length]
