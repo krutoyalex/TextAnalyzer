@@ -81,7 +81,7 @@ while words:
 
     words = words[1:]
 
-print('There are', number_of_words, 'in the selected text')
+print('There are', number_of_words, 'words in the selected text')
 print('There are', number_of_first_letter, 'titlecase words')
 print('There are', number_of_big_words, 'uppercase words')
 print('There are', number_of_small_words, 'lowercase words')
